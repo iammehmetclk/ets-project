@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ets project</string>
+    <string name="ad">Ad</string>
+    <string name="soyad">Soyad</string>
+    <string name="dogum_tarihi">Doğum Tarihi</string>
+    <string name="e_posta">E-posta</string>
+    <string name="telefon_numarasi">Telefon Numarası</string>
+    <string name="not">Not</string>
+    <string name="tamam">Tamam</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="kisi_ekle">Kişi Ekle</string>
+    <string name="kisi_guncelle">Kişi Güncelle</string>
+    <string name="kayit_basarili">Kayıt Başarılı</string>
+    
+    <string-array name="country_code">
+        <item>+90</item>
+        <item>+1</item>
+    </string-array>
+</resources>

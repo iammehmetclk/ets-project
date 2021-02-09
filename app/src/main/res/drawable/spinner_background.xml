@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <layer-list>
+            <item
+                android:drawable="@drawable/spinner_icon"
+                android:gravity="center|right"
+                android:left="40dp"
+                android:top="4dp"/>
+        </layer-list>
+    </item>
+</selector>
